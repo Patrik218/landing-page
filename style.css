@@ -1,0 +1,180 @@
+.top {
+    background-color: #1f2937;
+    font-family: Roboto;
+    padding: 8px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.body {
+    margin: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}
+
+.header-logo-text {
+    display: flex;
+}
+
+.header-text {
+    color: #f9faf8;
+    font-size: 24px;
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    border: #3882f6 solid 4px;
+    border-radius: 50%;
+}
+
+.header-link {
+    color: #e5e7eb;
+    font-size: 18px;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    align-self: top;
+}
+
+.link {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.something {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-description {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.sign-up {
+    width: 100px;
+    color:#e5e7eb;
+    background-color: #3882f6;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0px;
+}
+
+h3 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+
+a:hover {
+    color:aquamarine;
+}
+
+.under-link {
+    color: black;
+    text-align: center;
+    width: 150px;
+}
+
+.thumb {
+    height: 150px;
+    width: 150px;
+    border: #3882f6 solid 4px;
+    border-radius: 4px;
+}
+
+.all-img-link {
+    margin-left: auto;
+    margin-right: auto;
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img-link {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.text {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: left;
+}
+
+.from {
+    font-size: 36px;
+    color: #1f2937;
+    margin-right: 5%;
+    text-align: right;
+}
+
+.footer {
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around; 
+}
+
+.text-footer {
+    margin-top: 5px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.sign-up-footer {
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.footer-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.footer-text {
+    color: #f9faf8;
+}
